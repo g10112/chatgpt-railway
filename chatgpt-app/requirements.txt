@@ -1,3 +1,4 @@
-flask
-transformers
-torch
+Flask>=3.0,<4
+transformers>=4.44,<5
+torch>=2.3,<3
+gunicorn>=22,<24
